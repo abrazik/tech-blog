@@ -17,9 +17,9 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 
 
 # Links
-[Repository: ](https://github.com/)
+[Repository: https://github.com/abrazik/tech-blog ](https://github.com/abrazik/tech-blog)
 
-[Deployed Site: .herokuapp.com/](https://)
+[Deployed Site: https://sleepy-ravine-77445.herokuapp.com/](https://sleepy-ravine-77445.herokuapp.com/)
 
 # Contributing
 Developers may add more questions to the application or add more features to add more details to their project’s readme.md.
